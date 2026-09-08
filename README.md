@@ -30,6 +30,10 @@ The estimated LDL is:
 
 **3.13 mmol/L**
 
+## 📸 Application Preview
+
+![LDL Cholesterol Calculator](screenshots/app.png)
+
 ## 🚀 Features
 
 * LDL cholesterol calculation
